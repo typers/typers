@@ -1,0 +1,26 @@
+{
+  "name": "typers",
+  "version": "0.0.1",
+  "description": "Manage your fonts wisely. For the web.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "preferGlobal": "true",
+  "bin": {
+    "typers": "lib/typers.js"
+  },
+  "author": "Guilherme Oderdenge <guilherme@oderdenge.com> (http://oderdenge.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "colors": "^1.0.3",
+    "commander": "^2.5.0",
+    "json-stringify-safe": "^5.0.0",
+    "request": "^2.47.0",
+    "tough-cookie": "^0.12.1",
+    "underscore": "^1.7.0"
+  }
+}
