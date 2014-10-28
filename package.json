@@ -18,9 +18,7 @@
   "devDependencies": {
     "colors": "^1.0.3",
     "commander": "^2.5.0",
-    "json-stringify-safe": "^5.0.0",
     "request": "^2.47.0",
-    "tough-cookie": "^0.12.1",
     "underscore": "^1.7.0"
   }
 }
