@@ -1,7 +1,9 @@
 #Typers
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/typers/typers?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Typers is a simple fonts manager package, through it you can search, find and install incredible fonts available on the web.
+Typers is a very simple font manager for your web application.
+Through it, you can search and install with ease all the fonts that your app
+needs to be amazing.
 
 ## Requirements
 
@@ -13,14 +15,14 @@ Typers is a simple fonts manager package, through it you can search, find and in
 
 ## Usage
 
-    typers [command] <fontname> [options]
+    typers [command] <font-name> [options]
 
 ### Commands:
 
-    init                Start the project settings.
-    install <fontname>  Download the font.
-    search <fontname>   Search for a font.
-    help                Show this help.
+    init                 Start the project settings.
+    install <font-name>  Download the font.
+    search <font-name>   Search for a font.
+    help                 Show this help.
 
 ### Options:
 
@@ -36,4 +38,4 @@ Typers is a simple fonts manager package, through it you can search, find and in
 
 ## License
 
-Licensed under the MIT License
+Licensed under the MIT License.
