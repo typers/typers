@@ -2,8 +2,8 @@
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/typers/typers?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Typers is a very simple font manager for your web application.
-Through it, you can search and install with ease all the fonts that your app
-needs to be amazing.
+Through it, you can search, find and install with ease all the fonts that your
+app needs to be amazing and more incredible.
 
 ## Requirements
 
