@@ -31,10 +31,11 @@ app needs to be amazing and more incredible.
     -s, --save            Save the font information to the project's settings.
     -o, --style <engine>  specify stylesheet engine (css|sass|less)
 
-
 ## Core team
 
-// To Do
+* [Gabriel Zigolis](http://twitter.com/zigolis)
+* [Guilherme Oderdenge](http://twitter.com/chiefgui)
+* [Ricardo Dantas](http://twitter.com/ricardodantas)
 
 ## License
 
