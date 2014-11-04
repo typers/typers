@@ -1,6 +1,6 @@
 {
   "name": "typers",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Manage your fonts wisely. For the web.",
   "main": "index.js",
   "directories": {
@@ -13,10 +13,20 @@
   "bin": {
     "typers": "lib/typers.js"
   },
+  "repository": "https://github.com/typers/typers",
+  "homepage": "http://typers.github.io/typers",
   "author": "Guilherme Oderdenge <guilherme@oderdenge.com> (http://oderdenge.com/)",
+  "contributors": [
+    "Ricardo Dantas <ricardodantas@gmail.com>",
+    "Gabriel Zigolis <gabriel.zigolis@gmail.com>"
+  ],
+  "keywords": [
+    "google fonts",
+    "font manager"
+  ],
   "license": "MIT",
-  "devDependencies": {
-    "colors": "^1.0.3",
+  "dependencies": {
+  "colors": "^1.0.3",
     "commander": "^2.5.0",
     "mkdirp": "^0.5.0",
     "request": "^2.47.0",

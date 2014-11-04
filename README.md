@@ -1,17 +1,18 @@
-#Typers
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/typers/typers?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+#Typers 
 
-Typers is a very simple font manager for your web application.
-Through it, you can search, find and install with ease all the fonts that your
-app needs to be amazing and more incredible.
+![version](http://img.shields.io/npm/v/typers.svg?style=flat)
+![coveralls](http://img.shields.io/coveralls/typers/typers.svg?style=flat)
+![Downloads](http://img.shields.io/npm/dm/typers.svg?style=flat)
+![Dependencies](https://david-dm.org/typers/typers.svg?style=flat)
+![license](http://img.shields.io/npm/l/typers.svg?style=flat)
 
-## Requirements
 
-// To Do
+Typers is a very simple font manager for your web application. Through it, you can search, find and install with ease all the fonts that your app needs to be amazing and more incredible.
+
 
 ## Install
 
-    npm install typers
+    npm install typers -g
 
 ## Usage
 
@@ -36,6 +37,9 @@ app needs to be amazing and more incredible.
 * [Gabriel Zigolis](http://twitter.com/zigolis)
 * [Guilherme Oderdenge](http://twitter.com/chiefgui)
 * [Ricardo Dantas](http://twitter.com/ricardodantas)
+
+## Get engaged! 
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/typers/typers?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## License
 
