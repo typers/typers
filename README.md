@@ -1,4 +1,4 @@
-#Typers 
+#Typers
 
 ![version](http://img.shields.io/npm/v/typers.svg?style=flat)
 ![coveralls](http://img.shields.io/coveralls/typers/typers.svg?style=flat)
@@ -15,6 +15,17 @@ Typers is a very simple font manager for your web application. Through it, you c
     npm install typers -g
 
 ## Usage
+
+In your project folder, the first thing you have to do is initializing Typers:
+
+    typers init
+
+If you want to specify a directory to the downloaded content, you are able
+to do this through `--dir` option, such as:
+
+    typers init --dir="/assets/fonts/"
+
+And for everything else:
 
     typers [command] <font-name> [options]
 
@@ -38,7 +49,7 @@ Typers is a very simple font manager for your web application. Through it, you c
 * [Guilherme Oderdenge](http://twitter.com/chiefgui)
 * [Ricardo Dantas](http://twitter.com/ricardodantas)
 
-## Get engaged! 
+## Get engaged!
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/typers/typers?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## License
