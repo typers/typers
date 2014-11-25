@@ -16,7 +16,7 @@ Typers is a very simple font manager for your web application. Through it, you c
 
 ## Usage
 
-In your project folder, first of all you must initialize the typers creating a typers.json through this command line:
+In your project folder, first of all you must initialize Typers creating a `typers.json` file through this command line:
 
     typers init
 
