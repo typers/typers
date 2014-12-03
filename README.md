@@ -50,6 +50,10 @@ And for everything else:
 * [Guilherme Oderdenge](http://twitter.com/chiefgui)
 * [Ricardo Dantas](http://twitter.com/ricardodantas)
 
+## Contributing
+
+// TODO
+
 ## Get engaged!
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/typers/typers?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
