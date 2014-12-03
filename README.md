@@ -42,6 +42,7 @@ And for everything else:
     -V, --version         output the version number
     -s, --save            Save the font information to the project's settings.
     -o, --style <engine>  specify stylesheet engine (css|sass|less)
+    --min                 Minify the CSS output from downloaded font.
 
 ## Core team
 
