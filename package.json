@@ -33,6 +33,7 @@
     "underscore": "^1.7.0"
   },
   "devDependencies": {
-    "clean-css": "^2.2.20"
+    "clean-css": "^2.2.20",
+    "slug": "^0.8.0"
   }
 }
