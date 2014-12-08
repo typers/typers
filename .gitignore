@@ -1,3 +1,6 @@
 node_modules/
+assets/
 npm-debug.log
 .DS_Store
+typers.json
+
