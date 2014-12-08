@@ -42,12 +42,17 @@ And for everything else:
     -V, --version         output the version number
     -s, --save            Save the font information to the project's settings.
     -o, --style <engine>  specify stylesheet engine (css|sass|less)
+    --min                 Minify the CSS output from downloaded font.
 
 ## Core team
 
 * [Gabriel Zigolis](http://twitter.com/zigolis)
 * [Guilherme Oderdenge](http://twitter.com/chiefgui)
 * [Ricardo Dantas](http://twitter.com/ricardodantas)
+
+## Contributing
+
+// TODO
 
 ## Get engaged!
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/typers/typers?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)

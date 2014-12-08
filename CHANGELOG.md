@@ -1,3 +1,13 @@
+## 0.0.4 (2014/12/03)
+
+Improvements:
+
+- Now the default name of downloaded files were change. We adopted the slugification standard.
+
+Features:
+
+- Adding the `--min`inication option.
+
 ## 0.0.3 (2014/11/26)
 
 Bugfixes:
