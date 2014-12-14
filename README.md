@@ -31,10 +31,10 @@ And for everything else:
 
 ### Commands:
 
-    init                 Start the project settings.
+    init                  Start the project settings.
     install <font-names>  Download the fonts.
-    search <font-name>   Search for a font.
-    help                 Show this help.
+    search  <font-name>   Search for a font.
+    help                  Show this help.
 
 ### Options:
 
