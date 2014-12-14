@@ -1,7 +1,7 @@
 #Typers
 
 ![version](http://img.shields.io/npm/v/typers.svg?style=flat)
-![coveralls](http://img.shields.io/coveralls/typers/typers.svg?style=flat)
+![coveralls](http://img.shields.io/travis/typers/typers.svg?style=flat)
 ![Downloads](http://img.shields.io/npm/dm/typers.svg?style=flat)
 ![Dependencies](https://david-dm.org/typers/typers.svg?style=flat)
 ![license](http://img.shields.io/npm/l/typers.svg?style=flat)
