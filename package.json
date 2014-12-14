@@ -1,6 +1,6 @@
 {
   "name": "typers",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Manage your fonts wisely. To the web, from terminal.",
   "main": "index.js",
   "directories": {
