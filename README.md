@@ -7,7 +7,7 @@
 ![license](http://img.shields.io/npm/l/typers.svg?style=flat)
 
 
-Typers is a very simple font manager for your web application. Through it, you can search, find and install with ease all the fonts that your app needs to be amazing and more incredible.
+Typers is a very simple font manager for your web application. Through it, you can search, find and install with ease all the fonts that your app needs to be amazing and more incredible directly rightly from your terminal prompt.
 
 
 ## Install
