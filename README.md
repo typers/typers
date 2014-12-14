@@ -32,7 +32,7 @@ And for everything else:
 ### Commands:
 
     init                 Start the project settings.
-    install <font-name>  Download the font.
+    install <font-names>  Download the fonts.
     search <font-name>   Search for a font.
     help                 Show this help.
 
