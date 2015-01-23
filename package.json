@@ -30,12 +30,12 @@
     "commander": "^2.5.0",
     "mkdirp": "^0.5.0",
     "request": "^2.47.0",
-    "underscore": "^1.7.0"
+    "underscore": "^1.7.0",
+    "slug": "^0.8.0",
+    "clean-css": "^2.2.20"
   },
   "devDependencies": {
-    "clean-css": "^2.2.20",
     "expect.js": "^0.3.1",
-    "mocha": "^2.0.1",
-    "slug": "^0.8.0"
+    "mocha": "^2.0.1"
   }
 }
