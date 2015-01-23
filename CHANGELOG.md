@@ -1,3 +1,12 @@
+## 0.1.0 (2015/01/23)
+
+Improvements:
+
+- Removed the possibility to download a font twice, if the font is already on typers.json or have a css file with the font name in your assets folder it will not download. Note: if you use `-s` option it will write on typers.json even if the font is not downloaded.
+
+Features:
+
+- Added the `i` as an alias to `install`
 ## 0.0.4 (2014/12/18)
 
 Improvements:
