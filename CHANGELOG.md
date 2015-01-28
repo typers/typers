@@ -1,4 +1,4 @@
-## 0.1.0 (2015/01/23)
+## 0.5.0 (2015/01/23)
 
 Improvements:
 
@@ -7,6 +7,7 @@ Improvements:
 Features:
 
 - Added the `i` as an alias to `install`
+
 ## 0.0.4 (2014/12/18)
 
 Improvements:
